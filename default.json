@@ -1,7 +1,7 @@
 [
   {
     "address": "",
-    "image": "https://miro.medium.com/fit/c/176/176/0*85dl8ByaWiT3ww_l.png",
+    "image": "https://raw.githubusercontent.com/CubeFiFoundation/Assets/main/tokens/cube-token.svg",
     "name": "CUBE",
     "symbol": "CUBE",
     "decimals": 18
@@ -15,14 +15,14 @@
   },
   {
     "address": "0xF47DC2199336D5B93B611cD214c827a68A0f6b43",
-    "image": "https://cbfdev.github.io/static/media/tokenBalance.67f2782f.svg",
+    "image": "https://raw.githubusercontent.com/CubeFiFoundation/Assets/main/tokens/cfi-token.svg",
     "name": "CFI",
     "symbol": "CFI",
     "decimals": 18
   },
   {
     "address": "0x9d3f61338d6eb394e378d28c1fd17d5909ac6591",
-    "image": "https://miro.medium.com/fit/c/176/176/0*85dl8ByaWiT3ww_l.png",
+    "image": "https://raw.githubusercontent.com/CubeFiFoundation/Assets/main/tokens/cube-token.svg",
     "name": "Wrapped CUBE",
     "symbol": "WCUBE",
     "decimals": 18
