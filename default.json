@@ -1,0 +1,30 @@
+[
+  {
+    "address": "",
+    "image": "https://miro.medium.com/fit/c/176/176/0*85dl8ByaWiT3ww_l.png",
+    "name": "CUBE",
+    "symbol": "CUBE",
+    "decimals": 18
+  },
+  {
+    "address": "0xcfbc7dcae175e8138a7bd6fc750d282c2fe0240e",
+    "image": "https://assets.coingecko.com/coins/images/825/thumb/bnb-icon2_2x.png",
+    "name": "cFI BNB",
+    "symbol": "cBNB",
+    "decimals": 18
+  },
+  {
+    "address": "0xF47DC2199336D5B93B611cD214c827a68A0f6b43",
+    "image": "https://cbfdev.github.io/static/media/tokenBalance.67f2782f.svg",
+    "name": "CFI",
+    "symbol": "CFI",
+    "decimals": 18
+  },
+  {
+    "address": "0x9d3f61338d6eb394e378d28c1fd17d5909ac6591",
+    "image": "https://miro.medium.com/fit/c/176/176/0*85dl8ByaWiT3ww_l.png",
+    "name": "Wrapped CUBE",
+    "symbol": "WCUBE",
+    "decimals": 18
+  }
+]
